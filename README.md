@@ -1,5 +1,11 @@
 #  Smart Navigation System (BFS & DFS)
 
+## 🌐 Live Demo
+
+> **[▶ Try the Interactive Website](https://adarsh-1188.github.io/system_navigation/)**
+
+---
+
 ##  Overview
 
 This project is a simple **Smart Navigation System** that finds a path between nodes in a graph using:
@@ -113,8 +119,8 @@ DFS Path: A → C → D → E
 
 * User-defined graph input
 * Graph visualization (nodes & edges)
-* Weighted graph support (Dijkstra’s Algorithm)
-* Deployment using GitHub Pages
+* Weighted graph support (Dijkstra's Algorithm)
+* ~~Deployment using GitHub Pages~~ ✅ Done — [Live here](https://adarsh-1188.github.io/system_navigation/)
 
 ---
 
